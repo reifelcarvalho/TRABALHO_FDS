@@ -1,0 +1,80 @@
+body {
+    background-color: #eefff6;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+
+h1 {
+    color: #2e8b57;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    text-align: justify;
+    line-height: 1.6;
+}
+
+ul.hobbies {
+    line-height: 2;
+}
+
+.hobby-img {
+    border-radius: 15px;
+    width: 600px;
+    display: block;
+    margin: 20px auto;
+}
+
+table {
+    width: 50%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.pais-img {
+    width: 200px;
+    border-radius: 5px;
+    
+}
+
+.meu-link {
+    color: #0066cc;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.meu-link:hover {
+    color: #ff6600;
+}
+
+#botaoMensagem {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+#botaoMensagem:hover {
+    background-color: #45a049;
+}
